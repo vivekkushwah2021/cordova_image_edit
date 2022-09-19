@@ -1,0 +1,17 @@
+{
+    "name": "imageeditplugin",
+    "version": "0.0.3",
+    "description": "image edit",
+    "cordova": {
+      "id": "com.image.edit",
+      "platforms": [
+        "android"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-android"
+    ],
+    "author": "vivek",
+    "license": "ISC"
+  }
